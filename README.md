@@ -1,4 +1,4 @@
-# Stat 184 - Xinyue Wang (Fall 2023) Final Project
+# Stat 184 - Xinyue Wang (Spring 2024) Final Project
 
 This repo will serve as the template file for the course project. Further, this README file will contain the project specifications (details), check points, and the list of learning outcomes being assessed. Be sure to read through all portions of the README carefully.
 
@@ -12,11 +12,11 @@ Use the following checklist to ensure that you have completed all of the tasks.
 
 - [ ] Read through README
 - [ ] Find 1 or 2 other individuals who you want to work with and form a team.
-- [ ] Create a repo using this repo as the template. Name your repo "FP_Name1_Name2_Name3" where Name# are the team member's names.
+- [ ] Create a repo using this repo as the template. Name your repo "FP_Name1_Name2_Name3" where Name# are the team member's names. (More details are available in the lecture note from Week12_Fri.pdf.)
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
 - [ ] Make a plan for your work.
-  - [ ] __Target Completion: <mark>Monday, Nov. 20, 2023</mark>__
+  - [ ] __Target Completion: <mark>Sunday, Apr. 7, 2024</mark>__
 - [ ] Locate appropriate data sources for your project.
   - [ ] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [ ] Supplementary data sources may come from anywhere.
@@ -25,25 +25,24 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] Prepare a reproducible report
   - [ ] Use a RMD file; output type is your choice.
   - [ ] The report should be well organized with section headings
-  - [ ] Code should be collapsed/hidden for HTML, and R Notebooks or in a Code Appendix at the end for a PDF.
+  - [ ] __Code should be collapsed/hidden for HTML, and R Notebooks or in a Code Appendix at the end for a PDF.__
   - [ ] All outputs should be accompanied by narrative text to explain what the reader should be seeing.
   - [ ] State your research questions and explain them.
   - [ ] Describe your data sources (where they come from, what was their original purpose, who/what comprise the cases in each).
   - [ ] Describe what attributes you'll focus your analysis on (mention if they are part of your data sets or if you created them out of your data sets).
-  - [ ] Create multiple data visualizations that assist both the team and readers in understanding the data.
+  - [ ] Create __multiple types of__ data visualizations that assist both the team and readers in understanding the data.
     - Data visualizations should show a variety of your skills and geometries.
     - __Optional__: If your research question/data make sense to do so, try creating a map.
-  - [ ] Create at least one visual table (not a display of raw data) that assists both the team and readers in understanding the data.
+  - [ ] Create __at least one visual table (not a display of raw data)__ that assists both the team and readers in understanding the data.
   - [ ] Have narrative text explaining every data visualization and table as well as setting a framework.
   - [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
   - [ ] __Optional:__ For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
-- [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and at least 2 by each team member. Ensure that your instructor has access to your repo
-- [ ] __Optional:__ Your group may also wish to use `trackdown`
+- [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and __at least 2 by each team member__. Ensure that your instructor has access to your repo
 - [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo to the appropriate submission portal in Canvas.
-    - __Due Date for Xinyue's Class: Monday, Dec. 11th, 2023 by 5:00pm ET__
-- [ ] During the two weeks of classes following Thanksgiving Break (Nov. 29, Dec. 1, Dec. 6, and Dec. 8), your group will need to share a short presentation of what you've investigated and learned so far. __The schedule can be found on the detail page in Canvas.__
+    - __Due Date: Monday, Apr. 29th, 2024 by 5:00pm ET__
+- [ ] During the last two weeks of classes (Apr. 17, Apr. 19, Apr. 24, and Apr. 26), your group will need to share a short presentation of what you've investigated and learned so far. __The schedule can be found on the detail page in Canvas by Apr. 7th.__
 - [ ] Each member of the team needs to complete Peer/Self Evaluations using the included Evaluation template and upload the knitted PDF to the appropriate submission portal in Canvas.
-    - __Due Date: Thursday, Dec. 14th, 2023 by 11:59pm ET__
+    - __Due Date: Wednesday, May. 1st, 2024 by 11:59pm ET__
 - [ ] Update this README file to check off all elements you have completed by placing an x inside the square brackets: [x]
 
 ## Learning Objectives and Outcomes Assessed
@@ -78,7 +77,6 @@ Use the following checklist to ensure that you have completed all of the tasks.
   - https://github.com/fivethirtyeight/data --FiveThirtyEight (https://fivethirtyeight.com/) is a media outlet known for doing some excellent data analysis in many of their articles and stories.  Much of their data is shared in a GitHub Repo
   - https://github.com/nytimes --New York Times GitHub Repo with supporting data from many stories they have published
   - https://github.com/rfordatascience/tidytuesday --Your primary data set must NOT come from an R package.  You can usually download a CSV of the data hosted by Tidy Tuesday (if needed for your primary--they give you the `read_csv` code) or you can use their R package directly for a secondary source.
-  - Neil also has some data files you might be able to use
 + __What does a good example of the Final Project look like?__
   - Check out the various projects listed at the end of the Data Computing eBook as well as the example report. Those as well as the activities, especially towards the later parts of the course can help give you a sense of the scope for this project.  
 + __Can I use Python (or another language)?__
